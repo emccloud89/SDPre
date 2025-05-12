@@ -4,11 +4,8 @@ public class Objective2Lab3 {
       String month = "february";
       boolean isSaturday = true;
       boolean isSunday = true;
-    /*
-      System.out.println(int);
+      System.out.println(first_number);
       System.out.println(month);
       System.out.println(isSunday);
-    */
-
   }
 }
